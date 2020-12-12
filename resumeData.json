@@ -1,0 +1,70 @@
+{
+  "main": {
+    "headline": "Google",
+    "name":"Developer Students' Club",
+    "description":"The coolest community of coders trying to make some cool stuff",
+    "image":"dsc.png",
+    "bio":"Google's Developer Student Club is a student club for University of Melbourne students who want to learn a wide range of valuable, technical skills such as Machine Learning, Android Development etc. and join an amazing network of like minded developers.",
+   
+    
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/dscunimelb",
+        "className":"fa fa-facebook"
+      },
+      
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/company/dscunimelb/?viewAsMember=true",
+        "className":"fa fa-linkedin"
+      },
+      
+      {
+        "name":"github",
+        "url":"https://github.com/DSC-Unimelb",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "projects":{
+    
+    "project1":[
+      {
+        "name":"ALGORITHM VISUALIZER",
+        "leads":"Project Leads: Pulkit Aggarwal, Sanjog Gururaj, Prathyush Prasanth",
+        "description":"An Algorithm Visualizer web application which can easily display animations of many types of sorting and pathfinding algorithms."
+        
+      }
+     
+    ]
+
+    
+    
+  },
+  "events":{
+    "projects": [
+      {
+        "title":"DSCODE Flutter Workshops",
+        "image":"flutter.jpg",
+        "url":"https://www.youtube.com/watch?v=qyFNI5b_i9I&list=PLoLcLofx-o1NbkGAdx6GurROg2BedwZ4j"
+      },
+      {
+        "title":"DSC Retro Game Hackathon",
+        "image":"hack.jpg",
+        "url":"https://www.facebook.com/events/677155059845759"
+      },
+      {
+        "title":"IDEATE Industry Talks",
+        "image":"ideate.jpg",
+        "url":"https://www.youtube.com/watch?v=HsD6PhQnUSo&t=404s"
+      },
+      {
+        "title":"DSCODE Machine Learning Workshops",
+        "image":"ml.jpg",
+        "url":"https://www.youtube.com/watch?v=e7DsI9HD2u4&list=PLoLcLofx-o1MnJLiZJj5ecH7ULidAOIRK"
+      }
+      
+    ]
+  }
+}

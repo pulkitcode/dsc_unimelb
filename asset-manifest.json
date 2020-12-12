@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dsc_unimelb/static/css/main.bab0b925.chunk.css",
+    "main.js": "/dsc_unimelb/static/js/main.fd5ce02f.chunk.js",
+    "main.js.map": "/dsc_unimelb/static/js/main.fd5ce02f.chunk.js.map",
+    "runtime-main.js": "/dsc_unimelb/static/js/runtime-main.b8e788b5.js",
+    "runtime-main.js.map": "/dsc_unimelb/static/js/runtime-main.b8e788b5.js.map",
+    "static/js/2.28d7f4f2.chunk.js": "/dsc_unimelb/static/js/2.28d7f4f2.chunk.js",
+    "static/js/2.28d7f4f2.chunk.js.map": "/dsc_unimelb/static/js/2.28d7f4f2.chunk.js.map",
+    "index.html": "/dsc_unimelb/index.html",
+    "static/css/main.bab0b925.chunk.css.map": "/dsc_unimelb/static/css/main.bab0b925.chunk.css.map",
+    "static/js/2.28d7f4f2.chunk.js.LICENSE.txt": "/dsc_unimelb/static/js/2.28d7f4f2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8e788b5.js",
+    "static/js/2.28d7f4f2.chunk.js",
+    "static/css/main.bab0b925.chunk.css",
+    "static/js/main.fd5ce02f.chunk.js"
+  ]
+}
